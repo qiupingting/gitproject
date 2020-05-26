@@ -1,4 +1,8 @@
 11111
 git is free software
 git create a branch
+<<<<<<< HEAD
 git branch now is master
+=======
+git branch now is feature
+>>>>>>> feature1
